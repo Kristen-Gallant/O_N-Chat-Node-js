@@ -11,3 +11,10 @@ Offline Message Delivery: Messages are stored in Redis for users who are not cur
 User Connection Management: Tracks online/offline status of users.
 Scalable Architecture: Designed with future scalability in mind using Node.js and Redis.
 Simple and Intuitive Interface: (Assuming you have a basic frontend) A straightforward user interface for sending and receiving messages.
+
+
+## Technologies Used
+Node.js: JavaScript runtime for the backend server.
+Socket.IO: A popular library for real-time bi-directional event-based communication (or native WebSockets).
+Redis: In-memory data structure store, used for storing offline messages and managing user sessions.
+npm: Node.js package manager.
