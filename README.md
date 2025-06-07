@@ -15,8 +15,12 @@ Simple and Intuitive Interface: (Assuming you have a basic frontend) A straightf
 
 ## Technologies Used
 Node.js: JavaScript runtime for the backend server.
+
 Socket.IO: A popular library for real-time bi-directional event-based communication (or native WebSockets).
+
 Redis: In-memory data structure store, used for storing offline messages and managing user sessions.
+
+
 npm: Node.js package manager.
 
 
